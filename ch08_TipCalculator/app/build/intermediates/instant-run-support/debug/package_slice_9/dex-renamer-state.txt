@@ -1,0 +1,4 @@
+#Tue May 16 08:54:20 PDT 2017
+base.0=C\:\\Users\\Joe\\Documents\\Classes\\SPR2017\\ITC 162 Mobile\\ch08_TipCalculator\\ch08_TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9
+renamed.0=classes.dex
+file.0=C\:\\Users\\Joe\\Documents\\Classes\\SPR2017\\ITC 162 Mobile\\ch08_TipCalculator\\ch08_TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9\\classes.dex

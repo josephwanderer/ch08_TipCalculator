@@ -1,0 +1,7 @@
+#Tue May 16 09:41:57 PDT 2017
+base.0=C\:\\Users\\Joe\\Documents\\Classes\\SPR2017\\ITC 162 Mobile\\ch08_TipCalculator\\ch08_TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1346af98ac58902268a1b7bc80bc95a52381d1f9
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Joe\\Documents\\Classes\\SPR2017\\ITC 162 Mobile\\ch08_TipCalculator\\ch08_TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_981e2f15d4cb85c27eef5bd1b65a681469e75d29\\classes.dex
+base.1=C\:\\Users\\Joe\\Documents\\Classes\\SPR2017\\ITC 162 Mobile\\ch08_TipCalculator\\ch08_TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_981e2f15d4cb85c27eef5bd1b65a681469e75d29
+file.0=C\:\\Users\\Joe\\Documents\\Classes\\SPR2017\\ITC 162 Mobile\\ch08_TipCalculator\\ch08_TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1346af98ac58902268a1b7bc80bc95a52381d1f9\\classes.dex
